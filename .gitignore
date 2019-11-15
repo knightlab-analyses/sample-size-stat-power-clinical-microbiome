@@ -1,0 +1,10 @@
+*.py[cod]
+
+# don't show the data downloaded from qiita
+*.zip
+alpha_vector
+templates
+distance_matrix
+
+# ignoring ipython checkpoints folder
+.ipynb_checkpoints
